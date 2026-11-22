@@ -1,5 +1,5 @@
 {
-  "version": "0.35.1",
-  "released": "2026-11-22",
-  "notes": "印刷とPDF出力はWindowsの標準の印刷画面を使う。向き・余白・用紙・倍率はそこで選び、PDFはプリンターで Microsoft Print to PDF を選ぶ。Excel出力はこれまでどおり。"
+  "version": "0.35.2",
+  "released": "2026-11-23",
+  "notes": "印刷とPDF出力は、向き（縦・横）・余白・倍率・プリンターをその場で選べるWebView2（Edge）の印刷プレビューを開く。PDFは同じ画面で Microsoft Print to PDF を選ぶ。Excel出力はこれまでどおり。"
 }
